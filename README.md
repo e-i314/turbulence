@@ -1,6 +1,6 @@
 # turbulence
 
-qardata
+qardata_sample_1000flight.csv
 
 ldgrwy    :LLanding runway(ICAO code)
 alt        :Mean sea level(feet)
