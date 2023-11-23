@@ -3,7 +3,7 @@ library(lubridate)
 library(dplyr)
 library(ggplot2)
 
-dist <- read_csv("D:/Dropbox/Reserch/0.2Data/FOQA_Summary/ooba_result.csv", show_col_types = FALSE)
+dist <- read_csv("ooba_result.csv", show_col_types = FALSE)
 lambda_14494_Big_safetydata <- read_csv("D:/Dropbox/Reserch/0.2Data/FOQA_Summary/lambda_14494_Big.csv", show_col_types = FALSE)
 lambda_14494_Big_safetydata <- dplyr::left_join(lambda_14494_Big_safetydata,dist,by="dateflt")
 
