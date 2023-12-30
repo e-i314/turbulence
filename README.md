@@ -1,5 +1,5 @@
 # turbulence
-
+## This data is a part of the QAR data obtained from the E170 aircraft.
 ### qardata_sample1000flight.csv
 
 #### ldgrwy    :Landing runway(ICAO code)
