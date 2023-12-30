@@ -4,7 +4,7 @@
 
 #### ldgrwy    :Landing runway(ICAO code)
 #### alt        :Mean sea level(feet)
-#### headwind    :Head wind compnent
+#### headwind    :Head wind compnent(kt)
 #### winddir    :wind direction observed by aircraft
 #### windspd    :wind speed observed by aircraft(kt)
 #### sat        :Static air temparature (c)
